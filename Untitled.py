@@ -20,16 +20,4 @@ def add_numbers(a, b):
 print(add_numbers(2, 3))
 
 # %%
-git clone https://github.com/chlgurwo99@gmail.com/test-vibe-coding.git
-# cd test-vibe-coding
-
-# %%
-# 예: 새로운 함수 추가
-def multiply_numbers(a, b):
-    return a * b
-
-
-# %%
-git add .
-git commit -m "Add multiply function"
-git push
+"이렇게 바꿔보았어 어때?"
