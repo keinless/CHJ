@@ -20,4 +20,4 @@ def add_numbers(a, b):
 print(add_numbers(2, 3))
 
 # %%
-"이렇게 바꿔보?"
+"이렇게"
